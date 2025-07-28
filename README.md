@@ -1,3 +1,4 @@
+<img width="1850" height="982" alt="Screenshot 2025-07-28 195630" src="https://github.com/user-attachments/assets/46726441-b753-4cdb-be04-99fa7a21c1f6" />
 # Student Result Management System 📝
 
 A simple Java application that allows you to insert and manage student records using MySQL as the database backend.
